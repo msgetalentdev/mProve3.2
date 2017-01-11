@@ -1,7 +1,8 @@
-Moodle Mobile 2.x
+mProve Mobile 2.x [V1 Jan '17 1.0.1]
 =================
 
-This is the primary repository of source code for the official Moodle Mobile app version 2.x.
+mProve Markerstudy Moodle Mobile 2.x code
+Includes Cordova Crosswalk plugin for Android <4.4.4
 
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
